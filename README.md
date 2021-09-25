@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>💻 - MK SCRIPYS</h1>
+  <h1>💻 - MK SCRIPTS</h1>
 
 | Project        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
