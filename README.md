@@ -4,7 +4,7 @@
 
 | Project        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
-| MK SCRIPT      | [Discord](https://discord.gg/YpXPV9JdNb) | MK-SCRIPTS. | 
+| MK SCRIPT      | [Discord](https://discord.gg/56Zmp3JGzx) | MK-SCRIPTS. | 
 </h4>
 
 <h2>THM-MENU-DESIGN<h2>
