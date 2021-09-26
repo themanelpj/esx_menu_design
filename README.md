@@ -2,9 +2,9 @@
 
   <h1>💻 - MK SCRIPTS</h1>
 
-| Project        | URL           | Description |
-| ------------- |:-------------:|:--------------:|
-| MK SCRIPT      | [Discord](https://discord.gg/56Zmp3JGzx) | MK-SCRIPTS. | 
+| URL           | Description |
+|:-------------:|:--------------:|
+| [Discord](https://discord.gg/56Zmp3JGzx) | MK-SCRIPTS. | 
 </h4>
 
 <h2>THM-MENU-DESIGN<h2>
