@@ -4,8 +4,6 @@
 
 </h4>
 
-<h2>THM-MENU-DESIGN<h2>
-
 <hr style="height:5px; border: 1px solid #ccc;">
 
 <div align = "left">
