@@ -1,10 +1,7 @@
 <div align="center">
 
-  <h1>💻 - MK SCRIPTS Credits to Jaareet</h1>
+  <h1>💻 - MK SCRIPTS</h1>
 
-| URL           | Description |
-|:-------------:|:--------------:|
-| [Discord](https://discord.gg/56Zmp3JGzx) | MK-SCRIPTS. | 
 </h4>
 
 <h2>THM-MENU-DESIGN c<h2>
