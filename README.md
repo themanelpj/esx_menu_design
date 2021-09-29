@@ -4,7 +4,7 @@
 
 </h4>
 
-<h2>THM-MENU-DESIGN c<h2>
+<h2>THM-MENU-DESIGN<h2>
 
 <hr style="height:5px; border: 1px solid #ccc;">
 
