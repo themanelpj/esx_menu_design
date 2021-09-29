@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>💻 - themanelpj</h1>
+  <h1>themanelpj</h1>
 
 </h4>
 
