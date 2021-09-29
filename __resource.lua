@@ -1,6 +1,6 @@
 resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 
-description 'ESX Menu Default - Redesigned by themanelpj Credits to Jaareet'
+description 'ESX Menu Default - Jaareet#0097 & themanelpj#7197'
 
 client_scripts {
 	'@es_extended/client/wrapper.lua',
